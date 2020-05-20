@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Grant</string>
+    <string name="dashboard">Home</string>
+    <string name="favourites">Blood</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About Us</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="logout">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="blood">blood</string>
+    <string name="user">user</string>
+    <string name="about">about</string>
+    <string name="headlines">Headlines</string>
+    <string name="img">img</string>
+    <string name="author">Author</string>
+    <string name="title">Title</string>
+    <string name="desc">Desc</string>
+    <string name="source">Source</string>
+    <string name="time">Time</string>
+    <string name="blood_types">Blood Types</string>
+    <string name="basic_registration">Basic Registration</string>
+    <string name="title_activity_apositive">APositive</string>
+</resources>
